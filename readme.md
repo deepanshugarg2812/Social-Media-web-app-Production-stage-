@@ -6,9 +6,6 @@
 * Write post
 * Comments
 
-#### Backend
-`Built some api to access the database`
-
 ### Structure
 
 ```
@@ -28,3 +25,7 @@
 
 ```
 
+### Execute on the local machine
+`
+src > node server.js
+`
